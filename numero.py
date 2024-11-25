@@ -1,2 +1,2 @@
-numero = input("Digite um número: ")
+numero = int(input("Digite um número: "))
 print(numero * 3)
